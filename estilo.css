@@ -1,3 +1,7 @@
 .bordedecalculadora{
-    border:red 1px solid;
+    border:red 1px solid !important ;
+}
+
+#calcu{
+    border: blue 2px solid;
 }
